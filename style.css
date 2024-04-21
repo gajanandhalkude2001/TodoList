@@ -12,6 +12,9 @@
     padding: 20px;
     margin: 30px;
 }
+h1 {
+    text-align: center;
+}
 .search-box {
     display: flex;
     justify-content: space-between;
